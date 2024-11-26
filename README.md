@@ -22,4 +22,4 @@
 
 </div>
 
-![profile](image/Alice Kuonji.jpg)
+![Alice Kuonji](image/AliceKuonji.jpg)
