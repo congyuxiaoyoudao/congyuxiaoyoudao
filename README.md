@@ -4,6 +4,8 @@
 - 🌱 Also enthusiastic about computer graphics
 - 💖 Currently learning NPR style shading
 - 🔭 Looking forward to becoming a qualified technical artist
+- 🥰 A seasoned master of galgames
+
 
 <div id="title" align=center>
 
