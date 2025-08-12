@@ -8,6 +8,9 @@
 	- Non-Photorealistic Rendering
 - Aspiring to Technical Artist and do R&D in CG
 
+[![](https://img.shields.io/badge/Theonlyproblem-%230084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/the-only-problem)
+[![](https://img.shields.io/badge/Blog-%23FF4088?style=flat-square&logo=hugo&logoColor=white)](https://theonlyproblem.top)
+
 ## Stats
 
 <div align="center">
@@ -29,5 +32,7 @@
 <td><img align="" width="" height="" alt="" src="mashkyrielight.gif"></td>
 </tr>
 </table>
+</br>
 
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=congyuxiaoyoudao&theme=dracula&rank=-C,-B,-?&column=-1" />
 </details>
