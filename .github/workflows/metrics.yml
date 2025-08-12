@@ -25,8 +25,12 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
+          user: congyuxiaoyoudao
           template: classic
-          base: activity, community, repositories, metadata
+          base: activity, community, metadata
           config_timezone: Asia/Shanghai
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
