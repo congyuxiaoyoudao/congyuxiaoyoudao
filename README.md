@@ -1,27 +1,33 @@
-## Hi TheOnlyProblem(congyuxiaoyoudao) there 👋
+![luna](image/lun04c_waifu.jpg)
 
-- 🎒 I’m a mundane college student
-- 🌱 Also enthusiastic about computer graphics
-- 💖 Currently learning NPR style shading
-- 🔭 Looking forward to becoming a qualified technical artist
-- 🥰 A seasoned master of galgames
+## AboutMe
 
+- I'm a college student in Zhejiang University of Technology, majored in Digital Media Technology
+- Enthusiastic about Computer Graphics, especially anything related to rendering
+	- 3D Reconstruction
+	- Non-Photorealistic Rendering
+- Aspiring to Technical Artist and do R&D in CG
 
-<div id="title" align=center>
+## Stats
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight)]()
-
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-TheOnlyProblem-blue
-)](https://www.zhihu.com/people/the-only-problem) [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
-
-![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
-![](https://img.shields.io/badge/爱好-二次元-red)
-
-![luna](image/luna.jpg)
+<div align="center">
+<a href="https://github.com/congyuxiaoyoudao/convoychat">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href="https://github.com/congyuxiaoyoudao/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight" />
+</a>
+</br></br>
 </div>
 
+<details>
+<summary>More</summary>
+</br>
+<table align="center">
+<tr>
+<td><img align="" width="" alt="" src="/github-metrics.svg"></td>
+<td><img align="" width="" height="" alt="" src="mashkyrielight.gif"></td>
+</tr>
+</table>
 
-![Personal 3D Metrics](./profile-3d-contrib/profile-night-green.svg)
-![Visitor Count](https://profile-counter.glitch.me/congyuxiaoyoudao/count.svg)
+</details>
