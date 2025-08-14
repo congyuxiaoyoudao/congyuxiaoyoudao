@@ -10,6 +10,15 @@
 
 [![](https://img.shields.io/badge/Theonlyproblem-%230084FF?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/the-only-problem)
 [![](https://img.shields.io/badge/Blog-%23FF4088?style=flat-square&logo=hugo&logoColor=white)](https://theonlyproblem.top)
+</br>
+[![](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)]()
+[![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/WebGPU-%23005A9C?style=flat-square&logo=webgpu&logoColor=white)]()
+[![](https://img.shields.io/badge/UE-%230E1128?style=flat-square&logo=unrealengine&logoColor=white)]()
+[![](https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=unity&logoColor=black)]()
+[![](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white)]()
+[![](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)]()
+[![](https://img.shields.io/badge/Obsidian-%237C3AED?style=flat-square&logo=obsidian&logoColor=white)]()
 
 ## Stats
 
@@ -28,8 +37,8 @@
 </br>
 <table align="center">
 <tr>
-<td><img align="" width="" alt="" src="/github-metrics.svg"></td>
-<td><img align="" width="" height="" alt="" src="mashkyrielight.gif"></td>
+<td><img align="" width="500" alt="" src="/github-metrics.svg"></td>
+<td><img align="" width="400" height="" alt="" src="image/luna.gif"></td>
 </tr>
 </table>
 </br>
