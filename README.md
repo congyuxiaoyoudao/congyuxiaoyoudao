@@ -24,10 +24,10 @@
 
 <div align="center">
 <a href="https://github.com/congyuxiaoyoudao/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
+  <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=320" />
 </a>
 <a href="https://github.com/congyuxiaoyoudao/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight" />
+  <img height=180 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=congyuxiaoyoudao&show_icons=true&theme=tokyonight" />
 </a>
 </br></br>
 </div>
@@ -43,5 +43,5 @@
 </table>
 </br>
 
-<img align="center" src="https://github-profile-trophy.vercel.app/?username=congyuxiaoyoudao&theme=dracula&rank=-C,-B,-?&column=-1" />
+<img align="center" src="https://github-profile-trophy-fast.vercel.app/?username=congyuxiaoyoudao&theme=dracula&rank=-C,-B,-?&column=-1" />
 </details>
