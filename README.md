@@ -14,6 +14,7 @@
 [![](https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)]()
 [![](https://img.shields.io/badge/WebGPU-%23005A9C?style=flat-square&logo=webgpu&logoColor=white)]()
+[![](https://img.shields.io/badge/CUDA-%2376B900?style=flat-square&logo=nvidia&logoColor=white)]()
 [![](https://img.shields.io/badge/UE-%230E1128?style=flat-square&logo=unrealengine&logoColor=white)]()
 [![](https://img.shields.io/badge/Unity-%23FFFFFF?style=flat-square&logo=unity&logoColor=black)]()
 [![](https://img.shields.io/badge/Blender-%23E87D0D?style=flat-square&logo=blender&logoColor=white)]()
