@@ -1,10 +1,11 @@
 ![luna](image/lun04c_waifu.jpg)
 
-## AboutMe
+## About Me
 
-- I'm a college student in Zhejiang University of Technology, majored in Digital Media Technology
-- Enthusiastic about Computer Graphics, especially anything related to rendering
+- I'm currently a master's student in Shenzhen University, majored in Computer Science and Technology
+- Enthusiastic about Computer Graphics, especially anything related to rendering, but I also like:
 	- 3D Reconstruction
+    - Simulation
 	- Non-Photorealistic Rendering
 - Aspiring to Technical Artist and do R&D in CG
 
