@@ -2,7 +2,7 @@
 
 ## About Me
 
-- I'm currently a master's student in Shenzhen University, majored in Computer Science and Technology
+- I'm currently a master's student in Visual Computing Research Center (VCC), Shenzhen University, majored in Computer Science and Technology
 - Enthusiastic about Computer Graphics, especially anything related to rendering, but I also like:
 	- 3D Reconstruction
     - Simulation
