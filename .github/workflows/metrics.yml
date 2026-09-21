@@ -14,7 +14,9 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # Githun metrics
+      - name: GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           # The following scopes are required:
@@ -36,3 +38,18 @@ jobs:
           plugin_followup_sections: repositories
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+      # AniList
+      - name: AniList Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          filename: anilist.svg
+          base: ""
+
+          plugin_anilist: yes
+          plugin_anilist_user: shunkaiwang
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching, characters
+          plugin_anilist_limit: 4
+          plugin_anilist_limit_characters: 12
+          plugin_anilist_shuffle: no
